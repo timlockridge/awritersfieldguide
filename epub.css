@@ -1,0 +1,39 @@
+* {
+	font-family: Baskerville, Garamond, 'Times New Roman', serif;
+	line-height: 1.5em;
+}
+
+div.illustration {
+   width: 50% !important;
+   float: left;
+   margin: 0 .5em 0 0 !important;
+   line-height: 2em !important;
+}
+
+div.illustration img {
+  width: 100% !important;
+  vertical-align: text-top
+  margin-bottom: .5em !important;
+}
+
+h2 {
+	color: #602D70;
+}
+
+a {
+	color: #C23820;
+	text-decoration: none;
+}
+
+h1 {
+	color: #34193D;
+}
+
+h3 {
+	clear: both;
+}
+
+div.bio {
+	background-color: #D4B2FF;
+	padding: 5% 0;
+}
